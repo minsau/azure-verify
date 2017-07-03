@@ -1,0 +1,1 @@
+export { FaceApiService } from './face-api.service'
